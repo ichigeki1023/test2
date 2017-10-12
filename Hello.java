@@ -5,5 +5,6 @@ public class Hello{
 
 hello!
 re hi!
-asasdfsdfsdfgsd
-╥ндц
+
+edit
+//>>>>>>> origin/master
